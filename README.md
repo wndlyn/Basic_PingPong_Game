@@ -10,8 +10,7 @@ A simple PingPong game created using HTML, JavaScript, and CSS. The game feature
 4. [Installation](#installation)
 5. [How to Play](#how-to-play)
 6. [Game Logic](#game-logic)
-7. [Screenshots](#screenshots)
-8. [Contributing](#contributing)
+7. [Contributing](#contributing)
 
 
 ## Project Overview
@@ -71,11 +70,6 @@ Follow these steps to get the game running on your local machine:
 - **Collision Detection**: The ball will bounce off the paddle. If the ball hits the left side of the screen (past the player's paddle), the game ends.
 - **Increasing Difficulty**: The ball's speed increases over time. This is intended to keep the game challenging as the player progresses.
 
-## Screenshots
-
-Include some screenshots of your game interface so users can visualize what to expect. Example:
-
-![PingPong Game Screenshot](path/to/screenshot.png)
 
 ## Contributing
 
